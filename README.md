@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Htein Lin Aung</h1>
-<h3 align="center">A passionate PHP|Laravel developer from Myanmar</h3>
+<h3 align="center">A passionate Laravel developer from Myanmar</h3>
 
-- 🌱 I’m currently learning **Laravel|Vue**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **hteinlinaung238@gmail.com**
 
